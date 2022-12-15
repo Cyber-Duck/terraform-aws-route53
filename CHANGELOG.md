@@ -29,6 +29,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fix wrong wording in README.md
 
+## [0.4.0]
+
+- Add support for AWS Provider `v4`
+
 ## [0.3.0]
 
 ### Added

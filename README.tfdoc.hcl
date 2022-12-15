@@ -42,7 +42,7 @@ section {
     [Amazon Web Services (AWS)](https://aws.amazon.com/).
 
     ***This module supports Terraform v1.x, v0.15, v0.14, v0.13 as well as v0.12.20 and above
-    and is compatible with the terraform AWS provider v3 as well as v2.45 and above.***
+    and is compatible with the terraform AWS provider v2.45 and above.***
   END
 
   section {
